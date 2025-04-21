@@ -37,7 +37,7 @@ A weather forecast application built with a modern **decoupled architecture** us
 - Fetch API for AJAX requests
 
 ### Backend:
-- [Laravel 11+](https://laravel.com/)
+- [Laravel 12](https://laravel.com/)
 - [Guzzle](https://docs.guzzlephp.org/en/stable/) or [HTTP Client](https://laravel.com/docs/http-client)
 - REST API responses (JSON)
 
