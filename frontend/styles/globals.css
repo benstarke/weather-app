@@ -1,0 +1,17 @@
+/* styles/globals.css */
+@tailwind base; /* Includes Tailwind's preflight (base styles) */
+@tailwind utilities; /* Includes all utilities */
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 245, 247, 250;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+.spinner-circle {
+  @apply h-10 w-10 rounded-full border-4 border-t-blue-500 border-r-transparent border-b-blue-500 border-l-transparent animate-spin mx-auto;
+}
