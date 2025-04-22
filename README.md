@@ -16,6 +16,12 @@ A weather forecast application built with a modern **decoupled architecture** us
 
 ![Second View Celsius](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/SecondViewCelsius.PNG "Page Preview")
 
+![Search View](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/SearchView.PNG "Page Preview")
+
+![FahrenheitView](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/FahrenheitView.PNG "Page Preview")
+
+![Different City](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/DifferentCity.PNG "Page Preview")
+
 ---
 
 ## 🚀 Features
@@ -65,4 +71,20 @@ OPENWEATHERMAP_API_KEY=your_api_key_here
 
 # Serve the app
 php artisan serve
+
+```
+
+
+### 📦 Frontend (Nextjs)
+```bash
+cd weather-app/frontend
+npm install
+
+
+# Serve the app
+npn run dev
+```
+
+
+
 
