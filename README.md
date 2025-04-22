@@ -12,8 +12,9 @@ A weather forecast application built with a modern **decoupled architecture** us
 ---
 
 ## 📸 Screenshots
+![First View Celsius](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/FirstViewCelsius.PNG "Page Preview")
 
-> _Add screenshots or wireframes here (optional but encouraged)_
+![Second View Celsius](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/SecondViewCelsius.PNG "Page Preview")
 
 ---
 
