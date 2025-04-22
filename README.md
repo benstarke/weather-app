@@ -22,6 +22,13 @@ A weather forecast application built with a modern **decoupled architecture** us
 
 ![Different City](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/DifferentCity.PNG "Page Preview")
 
+![Responsiveness Ipad](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/ResponsivenessIpad.PNG "Page Preview")
+
+![Responsiveness Small screens](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/ResponsivenessSmallScreens.PNG "Page Preview")
+
+![Responsiveness Small screens](https://github.com/benstarke/weather-app/blob/main/frontend/Screenshots/ResponsivenessSmallScreens-1.PNG "Page Preview")
+
+
 ---
 
 ## 🚀 Features
@@ -82,7 +89,7 @@ npm install
 
 
 # Serve the app
-npn run dev
+npm run dev
 ```
 
 
